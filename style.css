@@ -1,16 +1,16 @@
 body {
-    background-color: #1D4221;
+    background-color: hsl(258, 82%, 58%);
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 650px;
-    margin: 20;
+    height: 700px;
+    margin: 30;
 }
 
 button {
-    background-color: #64A712;
+    background-color: hsl(251, 81%, 36%);
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
